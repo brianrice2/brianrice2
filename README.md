@@ -2,14 +2,16 @@
 
 I'm Brian. I'm an analytics grad student at Northwestern University. 
 
+![Hiller Goodspeed artwork](https://github.com/brianrice2/brianrice2/blob/master/hehe2.gif "Hiller Goodspeed artwork")
+
+(artwork by [Hiller Goodspeed](https://hillergoodspeed.com/), one of my favorites)
+
 - 🔭 Currently working on:
-  - Contributing to source projects
-  - Improving my data science, engineering, and DevOps/MLOps skills
-  - Securing a 2021 internship 😊
+  - Open source contributions
 - 🌱 Currently learning about:
+  - Analytics, data engineering, software engineering, etc.
   - Data science applications to workflows in agriculture, healthcare, operations research and more
   - [Partially observable Markov decision processes](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
-- ⚡ Fun fact: In 2017 I [rode my bike across the United States](https://abilityexperience.org/programs/journey-of-hope/)!
 - 😄 Pronouns: he/him/his
 
 Connect with me:
