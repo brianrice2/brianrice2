@@ -10,7 +10,7 @@ I'm Brian. I'm an analytics grad student at Northwestern University.
   - Open source contributions
 - 🌱 Currently learning about:
   - Analytics, data engineering, software engineering, etc.
-  - Data science applications to workflows in agriculture, healthcare, operations research and more
+  - Workflows in agriculture, healthcare, operations research and more
   - [Partially observable Markov decision processes](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
 - 😄 Pronouns: he/him/his
 
