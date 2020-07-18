@@ -16,8 +16,6 @@ I'm Brian. I'm an analytics grad student at Northwestern University.
   - [Partially observable Markov decision processes](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
 - 😄 Pronouns: he/him/his
 
-Connect with me:
-
 <!-- Badges courtesy of https://github.com/terrytangyuan and https://shields.io/ -->
 
 <p align="left">
