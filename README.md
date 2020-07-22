@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 I'm Brian. I'm an analytics grad student at Northwestern University. 
 
 <!--
