@@ -11,9 +11,8 @@ I'm Brian. I'm a grad student at Northwestern University.
 - 🔭 Currently working on:
   - Open source contributions
 - 🌱 Currently learning about:
-  - Analytics, data engineering, software engineering, etc.
+  - Analytics and data engineering
   - Workflows in agriculture, healthcare, operations research and more
-  - [Partially observable Markov decision processes](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
 - 😄 Pronouns: he/him/his
 
 <!-- Badges courtesy of https://github.com/terrytangyuan and https://shields.io/ -->
