@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brian. I'm a grad student at Northwestern University. 
+I'm Brian.
 
 <!--
 ![Hiller Goodspeed artwork](https://github.com/brianrice2/brianrice2/blob/master/hehe2.gif "Hiller Goodspeed artwork")
