@@ -15,6 +15,8 @@ I'm Brian.
 
 <!-- Badges courtesy of https://github.com/terrytangyuan and https://shields.io/ -->
 
+You can see more on my professional and educational experience on LinkedIn:
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/brianrice3"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&logo=linkedin&color=33bfff" alt="LinkedIn"></a>
 </p>
