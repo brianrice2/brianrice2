@@ -10,13 +10,9 @@ I'm Brian. I'm a graduate student at Northwestern.
 
 - 🌱 Currently learning about:
   - Analytics, data engineering, software development
-  - Workflows in agriculture, healthcare/public health, operations research
+  - Applications in healthcare, public health, and medical devices
 - 😄 Pronouns: he/him/his
 
 <!-- Badges courtesy of https://github.com/terrytangyuan and https://shields.io/ -->
 
-You can see more on my professional and educational experience on LinkedIn:
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/brianrice3"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&logo=linkedin&color=33bfff" alt="LinkedIn"></a>
-</p>
+You can read more about my background on my [LinkedIn page](https://www.linkedin.com/in/brianrice3), [school profile](https://www.mccormick.northwestern.edu/analytics/people/students/class-of-2021/rice-brian.html), or [blog](https://brianrice2.github.io/about.html).
