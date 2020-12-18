@@ -2,15 +2,9 @@
 
 I'm Brian. I'm a graduate student at Northwestern.
 
-<!--
-![Hiller Goodspeed artwork](https://github.com/brianrice2/brianrice2/blob/master/hehe2.gif "Hiller Goodspeed artwork")
-
-(artwork by [Hiller Goodspeed](https://hillergoodspeed.com/), one of my favorites)
--->
-
 - 🌱 Currently learning about:
   - Analytics, data engineering, software development
-  - Applications in healthcare, public health, and medical devices
+  - Applications in agriculture, healthcare, and medical devices
 - 😄 Pronouns: he/him/his
 
 <!-- Badges courtesy of https://github.com/terrytangyuan and https://shields.io/ -->
