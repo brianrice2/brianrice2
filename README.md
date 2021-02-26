@@ -4,7 +4,8 @@ I'm Brian. I'm a graduate student at Northwestern.
 
 - 🌱 Currently learning about:
   - Analytics, data engineering, software development
-  - Applications in agriculture, healthcare, and transportation
+  - Model deployment and machine learning systems design
+  - Designing Data-Intensive Applications
 - 😄 Pronouns: he/him/his
 
 <!-- Badges courtesy of https://github.com/terrytangyuan and https://shields.io/ -->
